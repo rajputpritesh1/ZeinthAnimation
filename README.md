@@ -21,3 +21,5 @@ This repository contains CSS animations for various effects like sliding in elem
     opacity: 1;
   }
 }
+
+<a href="https://github.com/rajputpritesh1/ZeinthAnimation/">Live Preview</a>
